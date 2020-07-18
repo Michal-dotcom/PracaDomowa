@@ -2,7 +2,7 @@ package DesignPatterns.Observer;
 
 public class SMSSender {
 
-    MessageTypes mail = MessageTypes.MAIL;
+
     MessageTypes sms = MessageTypes.SMS;
 
 
