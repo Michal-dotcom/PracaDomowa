@@ -22,10 +22,8 @@ public class UserData {
         }
     }
 
-    public User getUserByLogin(String login) {
-        if (userList.contains(getUserByLogin(login).getLogin())) {
-            return User;
-        }
+    public void getUserByLogin(String login) {
+
     }
 
 }
